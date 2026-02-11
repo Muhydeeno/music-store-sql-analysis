@@ -41,3 +41,8 @@ insights/ → Business insights
 - Revenue-based analysis provides more accurate insights than volume-based metrics
 - Proper use of window functions ensures correct ranking when ties exist
 - Understanding data grain is critical for accurate analysis
+
+### SQL Projects
+
+1. Music-Store-SQL-Analysis  
+2. Multi-Country Sales Analysis
